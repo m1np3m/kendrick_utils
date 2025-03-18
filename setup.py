@@ -25,7 +25,7 @@ extra_ci = [
 ]
 
 setup(
-    name="kendrick_package",
+    name="my_pip_package",
     version=__version__,
     description="A helpful package for Kendrick",
     url="https://github.com/m1np3m/kendrick_utils",
